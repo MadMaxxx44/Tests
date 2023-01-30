@@ -8,7 +8,7 @@ import { MaximumToken } from "../src/MaximumToken.sol";
 import { TOKEN } from "../src/TOKEN.sol";
 
 
-contract AccountantTest is Test {
+contract PublicMultySaleTest is Test {
     PublicMultySale public publicmultysale; 
     MaximumToken public token;
     TOKEN public token2;
