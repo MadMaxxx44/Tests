@@ -1,2 +1,2 @@
 # Tests
-Here i write tests for smart contracts using Foundry
+Here i write tests for smart contracts on typescript/Foundry
